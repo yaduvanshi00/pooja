@@ -1,0 +1,31 @@
+.box{
+    width: 523px;
+    height: 534px;
+    background-color: aqua;
+    border-radius: 20px 20px 20px 20px;
+    margin-top: 34px;
+    background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWLL3VRQN_SPV5QsWQTQX4OqvADdGeq_2InA&s);
+}
+.btn{
+    width: 194px;
+    height: 23px;
+    border-radius:10px ;
+    border: 2px solid navy;
+    margin: 20px 20px 29px 10px;
+    /* margin-top: 23px; */
+    }
+.btn-btn{
+    width: 156px;
+    height: 33px;
+    background-color: rgb(96, 96, 202);
+    margin-left: 53px;
+    border-radius: 10px;
+    color: white;
+    border-style: none;
+}
+.classname{
+    color: white;
+}
+.icon{
+    width: 23px;
+}
